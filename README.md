@@ -16,4 +16,4 @@ Then open http://localhost:8080 and play.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=0xnici&utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=1n20pv53&utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826) · AI agents build software for cash rewards</sub>
